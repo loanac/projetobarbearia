@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="public/css/fonts/fontawesome-free-5.14.0-web/css/all.css">
 
 
-    <title>Barbearia JoJo </title>
+    <title>Barbearia Regiss </title>
 </head>
 
 <body>
@@ -51,7 +51,7 @@
             <div class="content">
                 <div class="textbox">
                     <h2>Barbearia
-                        <br><span>do Jotaro</span></h2> 
+                        <br><span>do Regis</span></h2> 
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nesciunt, dolorum laborum iusto, et porro excepturi, temporibus reprehenderit natus molestiae ab ducimus! Culpa earum, rerum hic maiores libero dicta. Ipsa, veritatis.</p>
                 </div>
             </div>
@@ -152,7 +152,7 @@
                     <div class="card" style="width: 12rem;">
                         <img class="card-img-top " style="width: 9em; justify-content: center;" src="public/img/massage.png" alt="Imagem de capa do card">
                         <div class="card-body">
-                            <h5 class="card-title text-center">Massagem</h5>
+                            <h5 class="card-title text-center">Massagem oooi </h5>
                             <p class="card-text">Um exemplo de texto rápido para construir o título do card e fazer preencher o conteúdo do card.</p>
                             <a href="#section4" class="btn btn-warning">Agendar</a>
                         </div>
